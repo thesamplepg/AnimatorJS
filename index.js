@@ -57,6 +57,4 @@
   }
 
   const Animator = new AnimatorJs(document.querySelectorAll('.animator'));
-
-  console.log(Animator._listeners)
 })();
